@@ -8,7 +8,7 @@
 </h1>
 
 Fullstack developer and Linux enthusiast. Passionate about UI/UX and automation.<br>
-Currently building [Proje1](https://github.com/ismetxdaii/ismetxdaii) and exploring Next.js and TypeScript.
+Currently building [IsmetxDaii](https://github.com/ismetxdaii/ismetxdaii) and exploring Next.js and TypeScript.
 
 ![SkillIcons](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,cs,linux)
 
