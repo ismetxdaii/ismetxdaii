@@ -1,9 +1,9 @@
 <h1> 👋 Hi, I'm İsmet
 <a href="https://github.com/ismetxdaii/ismetxdaii">
-    <img src="https://img.shields.io/badge/Proje1-blue?style=for-the-badge" alt="ismetxdaii">
+    <img src="https://img.shields.io/badge/Ismet-blue?style=for-the-badge" alt="ismetxdaii">
 </a>
-<a href="https://github.com/ismetxdaii/proje2">
-    <img src="https://img.shields.io/badge/Proje2-green?style=for-the-badge" alt="ismetxdaii">
+<a href="https://github.com/ismetxdaii/ismetxdaii">
+    <img src="https://img.shields.io/badge/Ismet-green?style=for-the-badge" alt="ismetxdaii">
 </a>
 </h1>
 
